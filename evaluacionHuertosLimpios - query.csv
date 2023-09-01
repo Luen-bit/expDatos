@@ -1,40 +1,12 @@
 folioInspeccion,huertoID,ingenieroID,fecha,limpio,agua_potable,fugas,jabon_liq_antivac,toallas_papel,cestos_basura,cesto_100p_libre,cesto_bolsa_plas,señalamientos_visibles,señal_1_sanitario,señal_2_sanitario,señal_3_sanitario,cuenta_mat_limp,mat_identificado,area_desecho,mesa,sillas_bancas,comedor_limpio,botiquin_abastecido,dpsto_organica_inorganica,cestos_basura_comedor,cesto_100p_libreCom,cesto_bolsa,chimenea_parrilla,señales_visibles,señal_1_com,señal_2_com,señal_3_com,trampa_roedores,señal_roedor,ratonera,alimento_ratonera,ratonera_abierta,mat_limpieza_identificado,area_desechos_limpieza,acceso_controlado,animales,heces_fecales,animales_confinados,Identificada,acondicionada,Buen_estado,limpia,ordenada,jaula_envases_vacios,material_contener_derrames,fosa_derrames,fosa_funcional,señalamientos,sin_maleza,sin_basura,material_desuso,conjunto_error
-FEH-1,9600d0ae,fd39c2bf,28/08/2023,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,
-FEH-2,2f083ade,,21/08/2023,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
-FEH-3,a5ae9bf4,,21/08/2023,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
-FEH-4,5f7c6e0d,,21/08/2023,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Realizar limpieza y desinfeccion del sanitarioAbastecer de agua potable al sanitarioReparar Fugas
-FEH-5,81165131,fd39c2bf,22/08/2023,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,"Equipar de jabón líquido el sanitario, Adquirir utensilios de limpieza para el sanitario, Equipar comedor con parrilla o chimenea, "
-FEH-6,43f78eaf,fd39c2bf,22/08/2023,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,"Realizar limpieza y desinfeccion del sanitario, Abastecer de agua potable al sanitario, Reparar fugas en el sanitario, "
-FEH-7,b3ebdded,fd39c2bf,23/08/2023,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,"****Sanitario****
-     Realizar limpieza y desinfeccion del sanitario,
-     Reparar fugas en el sanitario, 
-     Retirar basura del cesto del sanitario, 
-     Colocar señalamientos en el sanitario, 
-     Colocar señalamiento de identificación  de sanitario, 
-     Colocar fosa de graba para  contener los derrames de la limpieza, 
-****Comedor****
-     Equipar el comedor con una mesa, 
-     Realizar limpieza y desinfección del comedor, 
-     Abastecer con medicamentos el botiquin, 
-     Colocar bolsa plastica en cesto del comedor, 
-     Equipar comedor con parrilla o chimenea, 
-     Colocar señalamiento -Mantén limpia esta área-, 
-     Colocar trampa para roedores, 
-     Colocar ratonera en el corredor, 
-     Evitar que la puerta de la ratonera este cerrada, 
-     Colocar fosa con grava  para contener los desechos de limpieza del comedor, 
-****Cercado perimetral****
-     Evitar presencia de animales dentro de la huerta, 
-     Retirar o enterrar heces fecales, 
-****Área de objetos personales****
-     Colocar ganchos al área de objetos personales, 
-*****Área de preparación de mezclas****
-     Remover material y quitar tierra, rehabilitar barrera de contención en el área de mezclas,
-     Recoger basura y materiales en desuso del área de mezcla, 
-****Higiene en la UP****
-     Retirar basura de la huerta, 
-     Retirar materiales en desuso de área de producción, "
-FEH-8,4de403b2,2edd7913,23/08/2023,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,"****Sanitario****
+FEH-1,9600d0ae,fd39c2bf,28/08/2023 0:00:00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,
+FEH-2,2f083ade,,21/08/2023 16:47:49,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+FEH-3,a5ae9bf4,,21/08/2023 16:51:57,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+FEH-4,5f7c6e0d,,21/08/2023 16:54:51,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Realizar limpieza y desinfeccion del sanitarioAbastecer de agua potable al sanitarioReparar Fugas
+FEH-5,81165131,fd39c2bf,22/08/2023 13:34:52,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,"Equipar de jabón líquido el sanitario, Adquirir utensilios de limpieza para el sanitario, Equipar comedor con parrilla o chimenea, "
+FEH-6,43f78eaf,fd39c2bf,22/08/2023 16:07:52,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,"Realizar limpieza y desinfeccion del sanitario, Abastecer de agua potable al sanitario, Reparar fugas en el sanitario, "
+FEH-7,b3ebdded,fd39c2bf,23/08/2023 10:02:08,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,
+FEH-8,4de403b2,2edd7913,23/08/2023 16:41:51,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,"****Sanitario****
      Colocar señalamiento  del correcto  lavado de manos, 
      Colocar fosa de graba para  contener los derrames de la limpieza, 
 ****Comedor****
@@ -45,7 +17,7 @@ FEH-8,4de403b2,2edd7913,23/08/2023,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,
 *****Área de preparación de mezclas****
      Acondicionar fosa para contener derrames en el área de mezclas, 
 ****Higiene en la UP****"
-FEH-9,4de403b2,2edd7913,23/08/2023,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,"****Sanitario****
+FEH-9,4de403b2,2edd7913,23/08/2023 16:48:41,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,"****Sanitario****
 Realizar limpieza y desinfeccion del sanitario,
 Abastecer de agua potable al sanitario, 
 Equipar de jabón líquido el sanitario, 
@@ -64,7 +36,7 @@ Colocar ganchos al área de objetos personales,
      
 ****Higiene en la UP****
 Retirar materiales en desuso de área de producción, "
-FEH-10,8d7a074a,2edd7913,28/08/2023,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,"****Sanitario****
+FEH-10,8d7a074a,2edd7913,28/08/2023 18:14:52,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,"****Sanitario****
 Equipar con toallas de papel  el sanitario, 
 Retirar basura del cesto del sanitario, 
      
@@ -77,7 +49,7 @@ Retirar basura del cesto del sanitario,
 ****Área de preparación de mezclas****
      
 ****Higiene en la UP****"
-FEH-11,4de403b2,2edd7913,30/08/2023,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,"****Sanitario****
+FEH-11,4de403b2,2edd7913,30/08/2023 17:38:20,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,"****Sanitario****
 Retirar basura del cesto del sanitario, 
      
 ****Comedor****
@@ -94,7 +66,7 @@ Colocar jaula de envaces vacíos en el área de mezclas,
      
 ****Higiene en la UP****
 Retirar materiales en desuso de área de producción, "
-FEH-12,4de403b2,fd39c2bf,30/08/2023,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,"****Sanitario****
+FEH-12,4de403b2,fd39c2bf,30/08/2023 0:00:00,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,"****Sanitario****
      
 ****Comedor****
      
@@ -103,6 +75,24 @@ FEH-12,4de403b2,fd39c2bf,30/08/2023,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE
 ****Área de objetos personales****
      
 ****Área de preparación de mezclas****
+     
+****Higiene en la UP****
+Retirar basura de la huerta, "
+FEH-13,5c442cb5,2edd7913,31/08/2023 0:00:00,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,"****Sanitario****
+Equipar de jabón líquido el sanitario, 
+     
+****Comedor****
+Equipar el comedor con sillas o bancas, 
+     
+****Cercado perimetral****
+Retirar o enterrar heces fecales, 
+     
+****Área de objetos personales****
+Colocar ganchos al área de objetos personales, 
+     
+****Área de preparación de mezclas****
+Recoger envaces vacíos y colocarlos en la jaula, 
+Colocar material para contener derrames en el área de mezclas, 
      
 ****Higiene en la UP****
 Retirar basura de la huerta, "
