@@ -2,8 +2,8 @@
 const mysql = require("mysql");
 const fs = require('fs');
 const csvWriter = require("csv-write-stream");
-const writer = csvWriter({headers: ['id_huerta', 'nombre', 'regSagarpa', 'responsable']});
-const fileStream = fs.createWriteStream("G:/Mi unidad/Huertos-157755893/data.csv")
+const writer = csvWriter({headers: ['id', 'nombre', 'telefono', 'correo']});
+const fileStream = fs.createWriteStream("G:/Mi unidad/Huertos-157755893/dataInges.csv")
 
 const connection = mysql.createConnection({
     host:"localhost",
@@ -17,7 +17,7 @@ connection.connect((err) =>{
     console.log("Conectado a la base datos");
 })
 
-connection.query("SELECT * FROM  huertas", (err, results) => {
+connection.query("SELECT * FROM  ingenieros", (err, results) => {
     if (err) throw err;
     console.log("datos:", results)
     
@@ -28,7 +28,7 @@ connection.query("SELECT * FROM  huertas", (err, results) => {
     //writer.write(['1','2','3','4']);
     console.log("Escribiendo")
     results.forEach((row) => {
-        writer.write([row.id_huerta, row.nombre, row.regSagarpa, row.responsable]);
+        writer.write([row.id, row.nombre, row.telefono, row.correo]);
     });
     writer.end();
     connection.end();
@@ -37,4 +37,3 @@ connection.query("SELECT * FROM  huertas", (err, results) => {
 
 
 console.log("CSV guardado")
-
