@@ -17,7 +17,7 @@ connection.connect((err) =>{
     console.log("Conectado a la base datos");
 })
 
-connection.query("SELECT * FROM  huertas", (err, results) => {//consulta SQL, sera proporcionanda por jaime
+connection.query("SELECT * FROM  evaluacionhuertoslimpios___datossanidad", (err, results) => {//consulta SQL, sera proporcionanda por jaime
     if (err) throw err;
     console.log("datos:", results)
     
@@ -26,7 +26,7 @@ connection.query("SELECT * FROM  huertas", (err, results) => {//consulta SQL, se
     writer.pipe(fileStream);
     console.log("Escribiendo")
     results.forEach((row) => {
-        writer.write([row.id_huerta, row.nombre, row.regSagarpa, row.responsable, row.rutaID]);//constructor del archivo, adecuar a los datos de la consulta sql
+        writer.write([row.rSader, row.rutaID, row.huerto, row.productor, row.ubicacion, row.rutaIng]);//constructor del archivo, adecuar a los datos de la consulta sql
     });
     writer.end();
     connection.end();
