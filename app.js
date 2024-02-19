@@ -15,6 +15,15 @@ conection.connect((err)=>{
     if(err)throw err;
     console.log("Conectado a la base de datos");
 })
+
+conection.connect(function(error) {
+    var delete_query = "TRUNCATE TABLE inspecciones";
+    conection.query(delete_query, function (error, result) {	  
+      console.log("All rows deleted Successfully!");
+  });
+  });
+
+
 const results = [];
 fs.createReadStream('evaluacionHuertosLimpios - EvaluacionV2.csv')//toma el archivo csv, comprobar nombre del archivo
     .pipe(csvParser())
