@@ -12,10 +12,13 @@ const connection = mysql.createConnection({
     database: "test" //nombre de la base de datos
 });
 
+
 connection.connect((err) =>{
     if (err) throw err;
     console.log("Conectado a la base datos");
 })
+
+
 
 connection.query("SELECT * FROM  evaluacionhuertoslimpios___datossanidad", (err, results) => {//consulta SQL, sera proporcionanda por jaime
     if (err) throw err;
