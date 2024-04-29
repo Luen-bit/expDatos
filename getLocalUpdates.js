@@ -2,7 +2,7 @@
 const mysql = require("mysql");
 const fs = require('fs');
 const csvWriter = require("csv-write-stream");
-const writer = csvWriter({headers: ['folio', 'ruta', 'sagarpa', 'datetime','almAgroq','areaHerr',"almAgua","areaMaq"]});//cabeceras del archivo, comprobar nombres
+const writer = csvWriter({headers: ['folioInspeccion', 'rutaID', 'huertaID', 'fecha','almacenAgroquimicos','areaHerramientas',"almacenAgua","areaMaquinaria"]});//cabeceras del archivo, comprobar nombres
 const fileStream = fs.createWriteStream("G:/Mi unidad/Huertos-157755893/metaData.csv")//directorio donde se guardara el archivo, comprobar ruta
 
 const connection = mysql.createConnection({
