@@ -2,8 +2,8 @@
 const mysql = require("mysql");
 const fs = require('fs');
 const csvWriter = require("csv-write-stream");
-const writer = csvWriter({headers: ['Identificada','acondicionada']});//cabeceras del archivo, comprobar nombres
-const fileStream = fs.createWriteStream("G:/Mi unidad/Huertos-157755893/localAOP.csv")//directorio donde se guardara el archivo, comprobar ruta
+const writer = csvWriter({headers: ['herramientaOrdenada','señalesHerramienta', 'ratoneraHerramienta']});//cabeceras del archivo, comprobar nombres
+const fileStream = fs.createWriteStream("G:/Mi unidad/Huertos-157755893/localTools.csv")//directorio donde se guardara el archivo, comprobar ruta
 
 const connection = mysql.createConnection({
     host:"localhost",//direccion IP del servidor    
@@ -29,7 +29,7 @@ connection.query("SELECT * FROM  inspecciones", (err, results) => {//consulta SQ
     writer.pipe(fileStream);
     console.log("Escribiendo")
     results.forEach((row) => {
-        writer.write([row.AOPIdentificada, row.AOPAcondicionada]);//constructor del archivo, adecuar a los datos de la consulta sql
+        writer.write([row.herramientasOrdenadas, row.senalesHerramientas, row.ratoneraHerramienta]);//constructor del archivo, adecuar a los datos de la consulta sql
     });
     writer.end();
     connection.end();

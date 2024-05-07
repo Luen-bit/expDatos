@@ -2,7 +2,7 @@
 const mysql = require("mysql");
 const fs = require('fs');
 const csvWriter = require("csv-write-stream");
-const writer = csvWriter({headers: ['sanitarioLimpio', 'aguaPotable', 'fugas','jabon','toallas', 'cestoBasuraSanitario','cestoVacioSanitario','bolsaPLasticaSanitario','señalamientosSanitario','señal1Sanitario','señal2Sanitario', 'señal3Sanitario','matLimpSanIdentificado','matLimpDosp','areaDesechosLimpSanitario']});//cabeceras del archivo, comprobar nombres
+const writer = csvWriter({headers: ['sanitarioLimpio', 'aguaPotable', 'fugas','jabon','taollas', 'cestoBasuraSanitario','cestoVacioSanitario','bolsaPlasticaSanitario','señalamientosSanitario','señal1Sanitario','señal2Sanitario', 'señal3Sanitario','matLimpSanIdentificado','matLimpDisp','areaDesechosLimpSanitario']});//cabeceras del archivo, comprobar nombres
 const fileStream = fs.createWriteStream("G:/Mi unidad/Huertos-157755893/localsanitario.csv")//directorio donde se guardara el archivo, comprobar ruta
 
 const connection = mysql.createConnection({

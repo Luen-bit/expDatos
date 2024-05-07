@@ -1,0 +1,113 @@
+[33mcommit c227601215ae5d4485c54101223d507e23d44939[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Mon Apr 29 15:45:23 2024 -0600
+
+    enviar datos
+
+[33mcommit 409a0269ddf35f6b4c76d7309b12fe420642ddf7[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Mon Apr 29 13:23:33 2024 -0600
+
+    localupdates
+
+[33mcommit 9b2d3febbafeb5456f9458fa43916c623950d674[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Sat Apr 27 11:31:48 2024 -0600
+
+    local updates p1
+
+[33mcommit e0eccc33352389f453a1b089ae06d1f197b2ef4d[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Mon Mar 25 23:24:18 2024 -0600
+
+    dictamen
+
+[33mcommit 5afe13899d8976e62c693e39c684b718277e07bf[m
+Author: luis Enrique <luen@Latitude-3410-ef616344.localdomain>
+Date:   Mon Mar 25 16:47:14 2024 -0600
+
+    estado
+
+[33mcommit fc393069eaf4976b82f587da44fc58609c776833[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Fri Mar 22 22:43:37 2024 -0600
+
+    se agrega califacion a la bbdd
+
+[33mcommit 41f4f0f9e370081b854361c9aa116c7676e5f2fa[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Thu Mar 7 17:37:46 2024 -0600
+
+    correccion script
+
+[33mcommit 1a356c0b1953013c9c0b0c1bb785c690b4c28f1c[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Mon Feb 19 10:15:02 2024 -0600
+
+    truncar tabblas
+
+[33mcommit 3fe8f11dc54a149faa03a94119721af2ba0433aa[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Fri Jan 26 13:21:58 2024 -0600
+
+    exportData huertos
+
+[33mcommit e243ed95c46b5700e1c3d1612dc716052af8f5df[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Tue Jan 23 18:17:55 2024 -0600
+
+    correccion script
+
+[33mcommit 9784943f60a725f4bc1403840584b2170d6590c8[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Tue Jan 23 00:02:58 2024 -0600
+
+    correccion script
+
+[33mcommit 3a8a460b72dea2abb7897711accedd9b6f309f86[m
+Author: luis Enrique <luen@Latitude-3410-ef616344.localdomain>
+Date:   Fri Jan 5 14:03:08 2024 -0600
+
+    sql query
+
+[33mcommit c57d14efe356714355f15c667862693303964d0c[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Fri Jan 5 16:28:20 2024 -0600
+
+    tabla
+
+[33mcommit 995d735528c7d84ef8b1dd77f101c05feedec736[m
+Author: luen <luis.mincitar@informexti.com>
+Date:   Fri Dec 29 23:24:44 2023 -0600
+
+    tabla sql
+
+[33mcommit 2d3e42b0a31412d0cd212d71d5bc924f94f2583a[m
+Author: Luis Mincitar <luis-gt96@live.com.mx>
+Date:   Tue Nov 14 17:45:42 2023 -0600
+
+    Evaluacion 2
+
+[33mcommit 12ad33f242697abac3618ac5ba95c31683b7d2c3[m
+Author: Luis Mincitar <luis-gt96@live.com.mx>
+Date:   Fri Sep 1 15:16:52 2023 -0600
+
+    v1 terminada
+
+[33mcommit 60a594055a758f12af71ea2b89a87443f3786520[m
+Author: Luis Mincitar <luis-gt96@live.com.mx>
+Date:   Thu Aug 31 18:18:42 2023 -0600
+
+    export data from mysql
+
+[33mcommit b74e8be9b5996f6552de432fee9ce2ee7e8330b7[m
+Author: Luis Mincitar <luis-gt96@live.com.mx>
+Date:   Wed Aug 30 17:58:33 2023 -0600
+
+    version 1
+
+[33mcommit bb83b21c1d29121a83ebc795b9b4d5b70a62edd0[m
+Author: Luis Mincitar <luis-gt96@live.com.mx>
+Date:   Mon Aug 28 15:34:23 2023 -0600
+
+    inicio del proyecto
